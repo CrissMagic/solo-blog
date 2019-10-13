@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.crissmagic.cn/my-github-repos)
 * [Linux常用操作整理](http://www.crissmagic.cn/articles/2019/10/11/1570759641494.html)
 * [RocketMQ学习（一）-----概览](http://www.crissmagic.cn/articles/2019/10/09/1570613610453.html)
 * [Hello,world！](http://www.crissmagic.cn/hello-solo)

@@ -10,7 +10,8 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://www.crissmagic.cn/my-github-repos)
+* [Application.properties全配置（下）](https://www.crissmagic.cn/articles/2019/10/21/1571628717779.html)
+* [Application.properties全配置（上）](https://www.crissmagic.cn/articles/2019/10/21/1571628649893.html)
 * [高并发下的部分架构解决思路](https://www.crissmagic.cn/articles/2019/10/17/1571305607364.html)
 * [Linux常用操作整理](https://www.crissmagic.cn/articles/2019/10/11/1570759641494.html)
 * [RocketMQ学习（一）-----概览](https://www.crissmagic.cn/articles/2019/10/09/1570613610453.html)

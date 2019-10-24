@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [b站视频推荐：彩铅手绘十元老婆](https://www.crissmagic.cn/articles/2019/10/24/1571886721471.html)
+* [Git本地仓库关联、解除关联远程仓库流程及遇到的问题](https://www.crissmagic.cn/articles/2019/10/24/1571884156680.html)
 * [Application.properties全配置（下）](https://www.crissmagic.cn/articles/2019/10/21/1571628717779.html)
 * [Application.properties全配置（上）](https://www.crissmagic.cn/articles/2019/10/21/1571628649893.html)
 * [高并发下的部分架构解决思路](https://www.crissmagic.cn/articles/2019/10/17/1571305607364.html)

@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [CentOS7搭建CDH5.16.2](https://www.crissmagic.cn/articles/2019/11/08/1573204695172.html)
 * [CentOS7本地化搭建Easy-Mock](https://www.crissmagic.cn/articles/2019/10/30/1572398264251.html)
 * [b站视频推荐：彩铅手绘十元老婆](https://www.crissmagic.cn/articles/2019/10/24/1571886721471.html)
 * [Git本地仓库关联、解除关联远程仓库流程及遇到的问题](https://www.crissmagic.cn/articles/2019/10/24/1571884156680.html)

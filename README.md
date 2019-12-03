@@ -5,12 +5,12 @@
 <h4 align="center">每一段旅行都有终点</h4>
 <p align="center"><a title="一人行者" target="_blank" href="https://github.com/CrissMagic/solo-blog"><img src="https://img.shields.io/github/last-commit/CrissMagic/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/CrissMagic/solo-blog"><img src="https://img.shields.io/github/repo-size/CrissMagic/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/CrissMagic/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/CrissMagic/solo-blog.svg"></a></p>
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://www.crissmagic.cn/my-github-repos)
+* [小说推荐：《诡秘之主》- 爱潜水的乌贼](https://www.crissmagic.cn/articles/2019/12/03/1575356672479.html)
 * [好物简评：AirPods Pro开箱与体验](https://www.crissmagic.cn/articles/2019/11/13/1573614610969.html)
 * [CentOS7搭建CDH5.16.2](https://www.crissmagic.cn/articles/2019/11/08/1573204695172.html)
 * [CentOS7本地化搭建Easy-Mock](https://www.crissmagic.cn/articles/2019/10/30/1572398264251.html)
@@ -27,4 +27,4 @@
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 

@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [CentOS7利用Nginx简易部署前端项目](https://www.crissmagic.cn/articles/2019/12/10/1575945371968.html)
 * [小说推荐：《诡秘之主》- 爱潜水的乌贼](https://www.crissmagic.cn/articles/2019/12/03/1575356672479.html)
 * [好物简评：AirPods Pro开箱与体验](https://www.crissmagic.cn/articles/2019/11/13/1573614610969.html)
 * [CentOS7搭建CDH5.16.2](https://www.crissmagic.cn/articles/2019/11/08/1573204695172.html)
